@@ -1,0 +1,28 @@
+
+body {
+    background-color: rgb(112, 111, 103);
+}
+
+.fun {
+ display: flex; 
+
+
+}
+
+
+
+h1 {
+    all: unset;
+
+}
+.one {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around; 
+   align-items: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+   height: 30%;
+   color: aqua;
+}
+
